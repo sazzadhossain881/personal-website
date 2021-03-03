@@ -7,12 +7,11 @@ body{
 }
 .p-website{
     width: 500px;
-    height: auto;
+    height:100vh;
     position: absolute;
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
-    box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
 }
 .top-part{
